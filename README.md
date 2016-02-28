@@ -1,7 +1,7 @@
 # JOOQTest
 
 You will need the latest jdbc driver ojdbc7.jar 
-
+```
 <dependency>
   <artifactId>com.avon</artifactId>
   <groupId>ojdbc7</groupId>
@@ -9,7 +9,7 @@ You will need the latest jdbc driver ojdbc7.jar
   <scope>system</scope>
   <systemPath><!-- CHANGE THIS! -->/ojdbc7.jar</systemPath>
 </dependency>
-
+```
 I'm using:
 ```
 <dependency>
